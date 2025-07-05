@@ -14,7 +14,7 @@
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Haust-V2-AIO
+   cd Haust-Swap
    ```
 3. Import your private key into `pk.txt`.
 4. Install dependencies:
@@ -39,7 +39,7 @@
    ```
 9. Navigate to the project directory:
    ```sh
-   cd Haust-V2-AIO
+   cd Haust-Swap
    ```
 10. Run the bot again:
     ```sh
